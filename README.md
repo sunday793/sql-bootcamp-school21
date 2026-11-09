@@ -13,13 +13,13 @@ Each project focuses on a different aspect of working with relational databases 
 | 3 | [SQLB3_Retrieving_data](./SQLB3_Retrieving_data) | Advanced data retrieval, JOINs |
 | 4 | [SQLB4_DML](./SQLB4_DML) | Data Manipulation Language: INSERT, UPDATE, DELETE |
 | 5 | [SQLB5_Snapshots](./SQLB5_Snapshots) | Snapshots, point-in-time data |
-| 6 | [SQLB6_Salesman_problem](./SQLB6_Salesman_problem_Team_TL_zandrach) | Salesman problem (team project, TL: zandrach) |
+| 6 | [SQLB6_Salesman_problem](./SQLB6_Salesman_problem_Team) | Salesman problem (team project)|
 | 7 | [SQLB7_Database_index](./SQLB7_Database_index) | Database indexes and query performance |
 | 8 | [SQLB8_Integrating_features](./SQLB8_Integrating_features) | Integrating features, combining concepts |
 | 9 | [SQLB9_OLAP](./SQLB9_OLAP) | OLAP: analytical queries, aggregations |
 | 10 | [SQLB10_Isolation_levels](./SQLB10_Isolation_levels) | Transaction isolation levels |
 | 11 | [SQLB11_Functions_and_procs](./SQLB11_Functions_and_procs) | User-defined functions and stored procedures |
-| 12 | [SQLB12_Warehouse_fundamentals](./SQLB12_Warehouse_fundamentals_Team_TL_pedrotri) | Data warehouse fundamentals (team project, TL: pedrotri) |
+| 12 | [SQLB12_Warehouse_fundamentals](./SQLB12_Warehouse_fundamentals_Team) | Data warehouse fundamentals (team project) |
 
 ## 🛠 Tech Stack
 
@@ -37,13 +37,13 @@ school21-sql/
 ├── SQLB3_Retrieving_data/
 ├── SQLB4_DML/
 ├── SQLB5_Snapshots/
-├── SQLB6_Salesman_problem_Team_TL_zandrach/
+├── SQLB6_Salesman_problem_Team/
 ├── SQLB7_Database_index/
 ├── SQLB8_Integrating_features/
 ├── SQLB9_OLAP/
 ├── SQLB10_Isolation_levels/
 ├── SQLB11_Functions_and_procs/
-└── SQLB12_Warehouse_fundamentals_Team_TL_pedrotri/
+└── SQLB12_Warehouse_fundamentals_Team/
 ```
 
 Each project folder contains its own `README.md` with the original task description and solution details.
@@ -52,11 +52,3 @@ Each project folder contains its own `README.md` with the original task descript
 
 - These projects were originally developed and submitted via the School 21 internal GitLab.
 - This repository is a personal archive of that work.
-- Team projects (SQLB6, SQLB12) list their team lead in the folder name.
-
-## 👤 Author
-
-**Sofia Sineglazova / zandrach**
-
-Team projects:
-**SQLB6** and **SQLB12** — with Artyom Safin / pedrotri (https://github.com/sovaowlsova)
